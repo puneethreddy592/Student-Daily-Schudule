@@ -1,0 +1,5 @@
+null,ME102,CE102,MA102,CS102,null,null,null,null,null,null,
+tME102,CE102,CH103,MA102,ME102,null,ME110,ME110,ME110,null,null,
+tMA102,MA102,CH103,CE102,CS102,null,null,null,null,null,null,
+tCH103,CH103,CE111,ME102,null,null,CS112,CS112,CS122,null,null,
+null,CS102,tCE111,tCE111,tCE111,null,CH110,CH110,CH110,null,null,
